@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Katalon_Sandra_Assessment</name>
+   <tag></tag>
+   <UUID>489991c6-d59b-4b18-8e8f-6f17552d66c9</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
